@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<link rel="icon" type="image/png" href="icon/tyanicon.png" />
+  <title>f*cklv</title>
+  <style>
+img[alt="000webhost logo"]{display:none;}
+</style>
+  <style>
+    body {
+font-family: 'Indie Flower', cursive;
+
+		background: url('img/bg.png');
+		animation: slide 30s linear infinite;
+    }
+	.block {
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: default;
+	}
+	.text {
+		padding: 15px;
+
+		color: white;
+		font-size: 7vw;
+		user-select: none; 
+	}
+		.text2 {
+		padding: GAYpx;
+		color: white;
+		font-size: 7vw;
+		user-select: none; 
+	}
+	@keyframes slide {
+    from { background-position: 0 0; }
+    to { background-position: -609px -400px; }
+	}
+  </style>
+</head>
+<body>
+  <div class="block">
+    <div class="text">Ira</div>
+    <div class="text2"><3</div>
+  </div>
+</body>
+</html>
